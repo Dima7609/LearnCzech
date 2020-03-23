@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="free.dimadroid.learnczech">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".SettingsActivity"
+            android:label="Як це працює"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EighthLectureActivity"
+            android:label="Восьма лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SeventhLectureActivity"
+            android:label="Сьома лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SixthLectureActivity"
+            android:label="Шоста лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FifthLectureActivity"
+            android:label="П'ята лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FourthLectureActivity"
+            android:label="Четверта лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ThirdLectureActivity"
+            android:label="Третя лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SecondLectureActivity"
+            android:label="Друга лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FirstLectureActivity"
+            android:label="Перша лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SearchActivity"
+            android:label="@string/dictionarysearch"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ExtraInformationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlphabetActivity"
+            android:label="Нульова лекція"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AllQuizOutput"
+            android:label="@string/buttoncheck"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AllQuiz"
+            android:label="@string/buttoncheck"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GrammarActivity"
+            android:label="@string/first_menu_button"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DictionaryOutputActivity"
+            android:label="@string/second_menu_button"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DictionaryActivity"
+            android:label="@string/second_menu_button"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

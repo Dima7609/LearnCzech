@@ -1,0 +1,253 @@
+<resources>
+    <string name="app_name">LearnCzech</string>
+    <string name="appname">Чеська мова А1</string>
+
+    <string name="first_menu_button">Граматика</string>
+    <string name="second_menu_button">Словник</string>
+    <string name="buttoncheck">Перевірка знань</string>
+    <string name="buttonaddition">Додатково</string>
+
+    <string name="slova1_bttn">Товари та послуги</string>
+    <string name="slova2_bttn">Кімната</string>
+    <string name="slova3_bttn">Транспорт</string>
+    <string name="slova4_bttn">Ванна і туалет</string>
+    <string name="slova5_bttn">Кухня</string>
+    <string name="slova6_bttn">Пори року і погода</string>
+    <string name="slova7_bttn">Календар і час</string>
+    <string name="slova8_bttn">Місто</string>
+    <string name="slova9_bttn">Будинок</string>
+    <string name="slova10_bttn">Служби екстреної допомоги</string>
+    <string name="slova11_bttn">Банк</string>
+    <string name="slova12_bttn">Їжа</string>
+    <string name="slova13_bttn">Комп\'ютер</string>
+    <string name="slova14_bttn">Сім\'я</string>
+    <string name="slova15_bttn">Фрукти</string>
+    <string name="slova16_bttn">Овочі</string>
+    <string name="slova17_bttn">Тварини</string>
+    <string name="slova18_bttn">Предмети</string>
+    <string name="slova19_bttn">Одяг</string>
+    <string name="slova20_bttn">Професії</string>
+
+    <string name="selectategory">Виберіть категорію слів для перевірки:</string>
+    <string name="pleaseenter">Введіть слово на чеській</string>
+
+    <string name="answer">Відповісти</string>
+    <string name="wordsearch">Пошук</string>
+    <string name="section">Оберіть лекцію:</string>
+    <string name="dictionarysearch">Пошук у словнику</string>
+    <string name="extrainform1">Допоміжні сайти</string>
+    <string name="extrainform2">Популярні виконавці</string>
+
+    <string name="firstitem">cs.wiktionary.org</string>
+    <string name="seconditem">filmyon.cz</string>
+    <string name="thirditem">seznam.cz</string>
+    <string name="fourthitem">ceskatelevize.cz</string>
+    <string name="fifthitem">sledujufilmy.cz</string>
+
+    <string name="firstdescription">- відмінювання слів</string>
+    <string name="seconddescription">- фільми</string>
+    <string name="thirddescription">- словник</string>
+
+    <string name="firstsong">Xindl X</string>
+    <string name="secondsong">Tomáš Klus</string>
+    <string name="thirdsong">Kryštof</string>
+    <string name="fourthsong">Daniel Landa</string>
+    <string name="fifthsong">Tomáš Savka</string>
+    <string name="sixthsong">Radůza</string>
+    <string name="seventhsong">Karel Kryl</string>
+
+    <string name="grammardescription">У цьому розділі Ви зможете обрати певну лекцію та скористатися правилами, які зазнічені у ній. Лекції містять в собі всю необхідну інформацію для вивчення чеської мови, починаючи з алфавіту.</string>
+    <string name="dictionarydescription">У словнику Ви зможете обрати певну категорію в якій ознайомитись зі зазначеними словами. Кожна категорія містить оригінал слова та його переклад.</string>
+    <string name="verificationdescription">Цей розділ допоможе Вам у перевірці знань, отриманих раніше або вивчених у попередньому розділі "\"Словник\"".</string>
+    <string name="searchdescription">У розділі "\"Додатково\"" Ви зможете перейти до пошуку слів у словнику. Якщо ввести оригінал слова, то Ви отримаєте його правильний переклад.</string>
+    <string name="searchdescription1">Також цей розділ містить в собі корисну інформацію для вивчення чеської мови, таку як: </string>
+    <string name="searchdescription2">• сайти для перегляду фільмів;</string>
+    <string name="searchdescription3">• сайти для відмінювання слів;</string>
+    <string name="searchdescription4">• популярних чеських виконавців.</string>
+    <string name="searchdescription5">Ці ресурси допоможуть в практиці та вивченні чеської мови.</string>
+
+    <string-array name="namesection">
+        <item>Лекції 0–8 (натиснути тут)</item>
+        <item>0 Лекція</item>
+        <item>1 Лекція</item>
+        <item>2 Лекція</item>
+        <item>3 Лекція</item>
+        <item>4 Лекція</item>
+        <item>5 Лекція</item>
+        <item>6 Лекція</item>
+        <item>7 Лекція</item>
+        <item>8 Лекція</item>
+    </string-array>
+
+    <string name="singularities">Особливості форм однини</string>
+    <string name="pluralfeatures">Особливості форм множини</string>
+
+    <string name="lekce0text1">Алфавіт</string>
+    <string name="lekce0text2">Дієслово být</string>
+    <string name="lekce0text3">Форми дієслова <b>být</b> (бути) в теперішньому часі:</string>
+    <string name="lekce0text4">Заперечна форма дієслова <b>být</b> в теперішньому часі утворюється за допомогою додавання частки <b>ne</b> до вищезазначених особових форм.</string>
+    <string name="lekce0text5">Форми дієслова <b>být</b> у майбутньому часі:</string>
+    <string name="lekce0text6">Дієслово mít</string>
+    <string name="lekce0text7">Форми дієслова <b>mít</b> (мати) в теперішньому часі:</string>
+    <string name="lekce0text8">Дієслова jít та jet</string>
+    <string name="lekce0text9">Дієслова <b>jít</b> (іти) та <b>jet</b> (їхати) в теперішньому часі відмінюються наступним чином:</string>
+    <string name="lekce0text10">Дієслова žít, šít, číst</string>
+    <string name="lekce0text11">Форми дієслова <b>žít</b> в теперішньому часі:</string>
+    <string name="lekce0text12">Форми дієслова <b>šít</b> в теперішньому часі:</string>
+    <string name="lekce0text13">Форми дієслова <b>číst</b> в теперішньому часі:</string>
+
+    <string name="lekce1text1">Рід іменників</string>
+    <string name="lekce1text2">До <b>чоловічого</b> роду належать:</string>
+    <string name="lekce1text3">a) іменники, що означають назви істот і неістот і в називному відмінку однини закінчуються на твердий або м\'який приголосний: bratr, student, otec, jazyk, stroj.</string>
+    <string name="lekce1text4">б) іменники, що означають осіб чоловічої статі і закінчуються в називному відмінку однини на <b>-а, -ce, -ý, -í</b>: hrdina, starosta, soudce, cestující.</string>
+    <string name="lekce1text5">До <b>жіночого</b> роду належать:</string>
+    <string name="lekce1text6">a) іменники, що в називному відмінку однини закінчуються на голосні <b>-a, -e (-ě)</b>: matka, dcera, kniha, voda, hlava.</string>
+    <string name="lekce1text7">б) іменники, що в називному відмінку однини закінчуються на твердий або м\'який приголосний: kost, bolest, nit, obuv, krev.</string>
+    <string name="lekce1text8">в) іменники та субстантивовані прикметники, що означають осіб жіночої статі і закінчуються в називному відмінку однини на <b>-á, -í</b>: známá, nemocná.</string>
+    <string name="lekce1text9">До <b>середнього</b> роду належать:</string>
+    <string name="lekce1text10">а) іменники, що в називному відмінку однини закінчуються на <b>-o</b>: maso, slovo, železo.</string>
+    <string name="lekce1text11">б) іменники, що в називному відмінку однини закінчуються на <b>-e (-ě)</b>: pole, ovoce, nebe.</string>
+    <string name="lekce1text12">в) іменники, що в називному відмінку однини закінчуються на <b>-í</b>: nádraží, obilí, pití.</string>
+    <string name="lekce1text13">г) субстантивовані прикметники, що в називному відмінку однини закінчуються на <b>-é, -í</b>: vstupné, vepřové, hovězí.</string>
+    <string name="lekce1text14">Тверда і м\'яка група іменників</string>
+    <string name="lekce1text15">Основа іменників твердої групи закінчується на тверді приголосні <b>n, t, d, h, ch, k, g, r, p, b, v, f, m</b>. До них належить також більша частина іменників на <b>r, l</b>.</string>
+    <string name="lekce1text16">Основа іменники м\'якої групи закінчуються на м\'які приголосні <b>j, ň, ť, ď, š, ž, ř, c, č</b>, а також у деяких іменників на <b>l, z</b>.</string>
+    <string name="lekce1text17">Чеські відмінки</string>
+    <string name="lekce1text18">Відмінювання іменників жіночого роду твердої групи <b>(тип žena)</b></string>
+    <string name="lekce1text19">За зразком відмінюються всі іменники жіночого роду, що в називному відмінку однини закінчуються на <b>-a</b> з попереднім твердим приголосним основи.</string>
+    <string name="lekce1text20">а) у Dativ та Lokál відбувається пом\'якшення приголосних. Після <b>d, t, n, b, p, m, v, f</b> пишеться закінчення <b>-e</b>: voda-vodě.</string>
+    <string name="lekce1text21">б) у Dativ та Lokál в іменниках з основою на <b>k, h, ch, g, r</b> перед закінченням <b>-e</b> відбувається чергування: <b>k/c</b> (matka-matce), <b>h/z</b> (kniha-knize), <b>ch/š</b> (moucha-mouše), <b>g/z</b> (Olga-Olze), <b>r/ř</b> (sestra-sestře).</string>
+    <string name="lekce1text22">в) у Dativ та Lokál іменник dcera має закінчення <b>-i</b>: dcera-dceři.</string>
+    <string name="lekce1text23">г) У Vokativ мають закінчення <b>-o</b>: sestra-sestro.</string>
+    <string name="lekce1text24">1. У Genetiv іменники мають нульове закінчення. У групі кінцевих приголосних з\'являється вставне <b>-e</b>, а саме:</string>
+    <string name="lekce1text25">а) завжди в односкладних словах: hra-her.</string>
+    <string name="lekce1text26">б) часто перед <b>-k</b>: látka-látek.</string>
+    <string name="lekce1text27">в) іноді перед <b>-n, -m, -v, -b, -r</b>: volba-voleb.</string>
+    <string name="lekce1text28">г) іменник husa має паралельні форми hus/husí.</string>
+    <string name="lekce1text29">2. У  деяких двоскладних іменниках у Genetiv чергуються кореневі голосні: <b>á/a</b> (dáma-dam), <b>í/i/ě</b> (síla-sil), <b>ou/u</b> (houba-hub).</string>
+    <string name="lekce1text30">3. У Akuzativ завжди мають закінчення <b>-y</b>.</string>
+    <string name="lekce1text31">Дієслова kupovat, krýt</string>
+    <string name="lekce1text32">За зразком відмінюються всі дієслова, які в інфінітиві мають суфікс <b>ova</b>, а в основі теперішнього часу суфікс <b>uj</b>.</string>
+    <string name="lekce1text33">За зразком дієслів цього класу відмінюється також група непродуктивних дієслів типу <b>krýt</b>, у яких основа теперішнього часу має суфікс <b>j</b>.</string>
+
+    <string name="lekce2text1">Дієслово dělat</string>
+    <string name="lekce2text2">За зразком відмінюються дієслова теперішнього часу, які в інфінітиві мають суфікс <b>-a</b>: nechat, snídat.</string>
+    <string name="lekce2text3">Дієслова tisknout, začít</string>
+    <string name="lekce2text4">За зразком відмінюються дієслова, які в інфінітиві мають суфікс <b>-nou</b> з попереднім приголосним або голосним, а в 3-ій особі однини теперішнього часу закінчуються на <b>-n (e)</b>: lehnout, sednout.</string>
+    <string name="lekce2text5">Відмінювання прикметників жіночого роду твердої групи (тип mladá) та присвійних займенників</string>
+    <string name="lekce2text6">За зразком відмінюються прикметники жіночого роду, які перед закінченням <b>-á</b> мають твердий приголосний.</string>
+    <string name="lekce2text7">Прийменники blízko, u, do, nad, naproti, pod, vedle</string>
+    <string name="lekce2text8">1. <b>blízko</b> та <b>u</b> вживаються з Genetiv, відповідають на питання kde? (де?) і означають місце знаходження когось або чогось.</string>
+    <string name="lekce2text9">2. <b>do</b> вживається з Genetiv, відповідає на питання kam? (куди?) і означає напрям руху.</string>
+    <string name="lekce2text10">3. <b>nad</b> вживається з Instrumentál або Akuzativ, відповідає на питання kde? kam? (де? куди?).</string>
+    <string name="lekce2text11">4. <b>(na)proti</b> вживається з Dativ.</string>
+    <string name="lekce2text12">5. <b>vedle</b> вживається з Genetiv, відповідає на питання kde? (де?) та означає місце розташування поблизу когось або чогось.</string>
+    <string name="lekce2text13">6. <b>pod</b> означає "бути розташованим нижче чогось", вживається з Instrumentál (kde? де?) та з Akuzativ (kam? куди?).</string>
+
+    <string name="lekce3text1">Відмінювання іменників чоловічого роду твердої групи, що означають назви неістот (тип hrad)</string>
+    <string name="lekce3text2">За зразком іменників типу <b>hrad</b> відмінюються всі іменники чоловічого роду, що в Nominativ однини закінчуються на твердий приголосний.</string>
+    <string name="lekce3text3">1. У Genetiv є закінчення <b>-u</b> (byt-bez bytu). Але ціла група слів має закінчення <b>-a</b>. До них належать:</string>
+    <string name="lekce3text4">а) деякі загальні назви: les-do lesa.</string>
+    <string name="lekce3text5">б) назви місяців і днів (<b>e</b> випадає): leden-ledna.</string>
+    <string name="lekce3text6">в) деякі топонімічні назви (зокрема чеські на <b>-ov, -ín</b>): Kyjev-z Kyjeva.</string>
+    <string name="lekce3text7">Деякі іменники можуть мати обидва закінчення <b>-u</b> та <b>-a</b>: budík-budíku або budíka.</string>
+    <string name="lekce3text8">2. У Genetiv в односкладних словах скорочується або чергується коренева голосна: dům-domu.</string>
+    <string name="lekce3text9">3. У Genetiv в словах на <b>-jem, -et, -ek, -en, -eb, -ep, -ev</b> випадає <b>e</b>: dojem-dojmu.</string>
+    <string name="lekce3text10">4. У Vokativ регулярним є закінчення <b>-e</b> (hrade, byte). У слів на <b>-r</b> відбувається палаталізація (vítr-větře). Закінчення <b>-u</b> мають іменники на <b>-h, -ch, -k, -g</b>: prah-prahu.</string>
+    <string name="lekce3text11">5. У Lokál мають два закінчення <b>-u</b> та <b>-e/ě</b>. Закінчення <b>-u</b> мають іменники на <b>-h, -ch, -k, -g</b>: břeh-na břehu. Закінчення <b>-e/ě</b> мають більшість іменників, які в Genetiv мають закінчення <b>-a</b>: les-v lese.</string>
+    <string name="lekce3text12">Деякі іменники можуть мати обидва закінчення <b>-u</b> та <b>-e/ě</b>: jazyk-o jazyku або jazyce.</string>
+    <string name="lekce3text13">У Lokál основне закінчення іменників <b>-ech</b>: byt-v bytech.</string>
+    <string name="lekce3text14">Іменники з основою на <b>k, h, ch, g</b> мають закінчення <b>-ích</b> перед яким відбувається чергування <b>k/c, h/z, ch/š, g/z</b>: slovník-v slovnících.</string>
+    <string name="lekce3text15">Дієслова nést, brát, psát</string>
+    <string name="lekce3text16">1. За типом <b>nést</b> відмінюються дієслова з основою інфінітива, теперішнього і минулого часу на приголосний (klást-klade-kladl). Також всі дієслова з основою інфінітива на <b>-ct/ci</b> типу <b>péct та třít</b>.</string>
+    <string name="lekce3text17">2. За типом <b>brát</b> відмінюються дієслова з основою інфінітива минулого часу на <b>-a (-á)</b>, в теперішньому часі - з основою на приголосний (chápat-chápat).</string>
+    <string name="lekce3text18">3. За типом <b>psát</b> відмінюються група дієслів, з основою інфінітива, у яких відбувається чергування приголосних основи (lhát-lže).</string>
+    <string name="lekce3text19">Числівники від 1 до 10</string>
+    <string name="lekce3text20">1. Кількісні числівники від 1 до 10:</string>
+    <string name="lekce3text21">2. Порядкові числівники від 1 до 10:</string>
+    <string name="lekce3text22">Вказівні займенники в Nominativ</string>
+
+    <string name="lekce4text1">Дієслова prosit, umět</string>
+    <string name="lekce4text2">1. За зразком дієслів <b>prosit</b> у теперішньому часі відмінюються дієслова, які в ігфінітиві мають суфікс <b>-í</b>: mluvit, chodit, nosit.</string>
+    <string name="lekce4text3">За цим зразком відмінюються також нерегулярні дієслова <b>vědět, jíst, stát, bát se, spát</b>:</string>
+    <string name="lekce4text4">2. За зразком дієслів <b>umět</b> відмінюються дієслова, які в ігфінітиві мають суфікс <b>-e (-ě)</b>: rozumět, ztrácet, házet.</string>
+    <string name="lekce4text5">Модальні дієслова в теперішньому і майбутньому часі</string>
+    <string name="lekce4text6">До модальних дієслів належать дієслова <b>muset/musit, mít, moci/moct, chtít, smět, umět</b>.</string>
+    <string name="lekce4text7"><b>muset/musit</b> виражає максимальний ступінь необхідності здійснення якоїсь дії. У теперішньому часі відмінюються за зразком дієслова <b>prosit</b>.</string>
+    <string name="lekce4text8"><b>mít</b> має відтінок не категоричної обов\'язковості якоїсь дії.</string>
+    <string name="lekce4text9"><b>moci/moct</b> має відтінок можливості якоїсь дії.</string>
+    <string name="lekce4text10"><b>chtít</b> має відтінок бажаності якоїсь дії.</string>
+    <string name="lekce4text11"><b>smět</b> означає виконувати якусь дію або мати дозвіл на виконання якоїсь дії.</string>
+    <string name="lekce4text12"><b>umět</b> відповідає українському "уміти".</string>
+    <string name="lekce4text13">Модальні дієслова в майбутньому часі</string>
+    <string name="lekce4text14">Кількісні числівники від 11 до 20</string>
+
+    <string name="lekce5text1">Відмінювання іменників чоловічого роду твердої групи, що означають назви істот (тип pán)</string>
+    <string name="lekce5text2">За зразком іменників типу <b>pán</b> відмінюються всі іменники чоловічого роду, що означають назви істот і в Nominativ одними закінчуються на твердий приголосний.</string>
+    <string name="lekce5text3">1. У Genetiv мають закінчення <b>-а</b>: studenta.</string>
+    <string name="lekce5text4">2. У Genetiv в односкладових словах скорочується коренева <b>-ů</b>: Bůh-Boha.</string>
+    <string name="lekce5text5">3. У Genetiv в словах на <b>-ek, -el</b> випадає <b>e</b>: dědeček-dědečka.</string>
+    <string name="lekce5text6">4. У Dativ та Lokál мають закінчення <b>-ovi</b> або <b>-u</b>. Особові імена, прізвища, загальні назви осіб мають закінчення <b>-ovi</b> (dej to bratrovi). При сполученні двох подібних іменників у першого вживається закінчення <b>-u</b>, у другого <b>-ovi</b> (jdu k Janu Novákovi).</string>
+    <string name="lekce5text7">5. У Akuzativ форма іменників, що означають назви істот, збігається з формою Genetiv.</string>
+    <string name="lekce5text8">6. У Vokativ регулярним є закінчення <b>-e</b> (studente, pane). Закінчення <b>-u</b> мають іменники на <b>-h, ch, -k, -g</b> (hoch-hochu).</string>
+    <string name="lekce5text9">1. У Nominativ є три закінчення <b>-i, -ové, -é</b>. Поширеним є закінчення <b>-i</b>, перед ним відбувається чергування приголосних:  <b>h/z</b> (soudruh-soudruzi),  <b>ch/š</b> (hoch-hoši),  <b>k/c</b> (kluk-kluci),  <b>r/ř</b> (doktor-doktoři). Закінчення <b>-i</b> мають також назви птахів і звірів.</string>
+    <string name="lekce5text10">Закінчення <b>-ové</b> мають прізвища та імена, іменники іноземного походження, деякі питомо чеські слова, односкладові та іноді дваскладові назви народностей і національностей.</string>
+    <string name="lekce5text11">Закінчення <b>-é</b> мають іменники на <b>-an</b>: občan-občané.</string>
+    <string name="lekce5text12">2. У Akuzativ мають закінчення <b>-y</b>.</string>
+    <string name="lekce5text13">3. У Lokál мають закінчення <b>-ech</b>(є поширеним) та  <b>-ích</b> (іменники з основою на <b>k, h, ch, g</b>, перед якими відбувається чергування <b>k/c, h/z, ch/š, g/z</b>).</string>
+    <string name="lekce5text14">Відмінювання прикметників чоловічого роду твердої групи (тип mladý) і присвійних займенників můj, tvůj, svůj</string>
+    <string name="lekce5text15">За зразком <b>mladý</b> відмінюються прикметники чоловічого роду, які перед закінченням <b>-ý</b> мають твердий приголосний (dobrý, krásný).</string>
+    <string name="lekce5text16">Прийменники z, za</string>
+    <string name="lekce5text17">a) у просторовому значенні відповідає українському прийменнику <b>з</b> і означає напрям руху з певного місця.</string>
+    <string name="lekce5text18">б) виражає походження, джерело чогось.</string>
+
+    <string name="lekce6text1">Дієслова із зворотною часткою se</string>
+    <string name="lekce6text2">Компонент se може виражати дію, направлену на суб\'єкт (muji se-я вмиваюся), виражати взаємодію суб\'єктів (sejít se-зустрітися). Низка дієслів є тільки зворотними (smát se, leknout se, červenat se).</string>
+    <string name="lekce6text3">Дієслова із зворотною часткою si</string>
+    <string name="lekce6text4">1. Зворотна частка <b>si</b> при дієслові іноді зовсім не виражає ніяких специфічних значень.</string>
+    <string name="lekce6text5">2. Багато дієслів зі зворотною часткою <b>si</b> мають значення дії, виконуваної для себе, скерованої на себе.</string>
+    <string name="lekce6text6">3. Дієслова зі зворотною часткою <b>si</b> мають значення  взаємно скерованої дії.</string>
+    <string name="lekce6text7">4. У реченні зворотні частки <b>se</b> та <b>si</b> стоять після першого слова або словосполучення.</string>
+    <string name="lekce6text8">Сполучник že</string>
+    <string name="lekce6text9">Сполучник <b>že</b> перекладається на українську мову підрядним сполучником що.</string>
+    <string name="lekce6text10">Vím, že tam nebyl-Я знаю, що його там не було.</string>
+
+    <string name="lekce7text1">Відмінювання іменників чоловічого роду м\'якої групи (тип muž, stroj)</string>
+    <string name="lekce7text2">За зразком відмінюються всі іменники чоловічого роду м\'якої групи які в Nominativ однини закінчуються на м\'який приголосний або на <b>z, s, l, x.</b></string>
+    <string name="lekce7text3">1. У Genetiv мають закінчення <b>-e</b> (muže, stroje).</string>
+    <string name="lekce7text4">2. У Genetiv в односкладних словах скорочується кореневе <b>-ů</b> (hnůj-hnoje).</string>
+    <string name="lekce7text5">3. У Genetiv в словах на <b>-ec, -eň, -el</b> випадає <b>e</b> (otec-otce).</string>
+    <string name="lekce7text6">4. У Dativ та Lokál іменники, що означають назви істот, як правило, мають закінчення <b>-i</b> (lékaři, příteli). Закінчення <b>-ovi</b> мають прізвища.</string>
+    <string name="lekce7text7">5. У Vokativ регулярним є закінчення <b>-i</b> (muži!). Слова на <b>-ec</b> мають закінчення <b>-e</b>, перед яким відбувається чергування <b>c/č</b>.</string>
+    <string name="lekce7text8">1. У Nominativ іменники мають три закінчення <b>-i, -ové, -é</b>. Поширеним є закінчення <b>-i</b> (chlapec-chlapci). Закінчення <b>-ové</b> мають прізвища та імена, деякі слова на позначення родових стосунків. Закінчення <b>-é</b> мають іменники на <b>-tel</b>.</string>
+    <string name="lekce7text9">2. У Genetiv деякі слова мають нульове закінчення або закінчення <b>-ů</b> (obyvatel-obyvatel/obyvatelů).</string>
+    <string name="lekce7text10">3. У Akuzativ іменники, що означають істот і неістот, мають однакове закінчення <b>-e</b>.</string>
+    <string name="lekce7text11">Утворення дієприкметників минулого часу на -l</string>
+    <string name="lekce7text12">1. Від дієслів типу <b>nést, brát, psát</b> дієприкметники на <b>-l</b> утворюються від основи теперішнього часу, довгий кореневий голосний інфінітива скорочується.</string>
+    <string name="lekce7text13">2. Якщо у дієслів на <b>-nout</b> суфікс <b>-nou</b> стоїть після приголосного(тип <b>tisknout</b>), то у дієприкметниковій формі на <b>-l</b> він зникає (tisknout-tiskl).</string>
+    <string name="lekce7text14">3. Якщо у дієслів на <b>-nout</b> суфікс <b>-nou</b> стоїть після голосного(тип <b>minout</b>), то у дієприкметниковій формі на <b>-l</b> з\'являється суфікс <b>-nu</b> (minout-minul).</string>
+    <string name="lekce7text15">4. У деяких дієслів довгий голосний основи інфінітива у формах дієприкметника на <b>-l</b> не скорочується (bát se-bál se).</string>
+    <string name="lekce7text16">Прийменники mezi, pro</string>
+    <string name="lekce7text17">Прийменник <b>mezi</b> у просторовому значенні вживається з Instrumentál. Також може вживатися з Akuzativ.</string>
+    <string name="lekce7text18">Прийменник <b>pro</b> вживається з Akuzativ та виражає 3 значення. Дію на користь кого чого. Причину, мотивацію дії. Мету дії.</string>
+    <string name="lekce7text19">Сполучники proto, protože</string>
+    <string name="lekce7text20">Сполучник <b>proto</b> (тому) виражає наслідок дії у складносурядному реченні.</string>
+    <string name="lekce7text21">Сполучник <b>protože</b> (тому що, через те що) виражає причину дії у складнопідрядному реченні.</string>
+
+    <string name="lekce8text1">Відмінювання іменників жіночого роду м\'якої групи (тип růže)</string>
+    <string name="lekce8text2">За зразком відмінюються всі іменники жіночого роду, які в Nominativ однини перед закінченням <b>-e (-ě)</b> мають м\'який або подвійний приголосний: růže, práce, snídaně, večeře.</string>
+    <string name="lekce8text3">Особливості відмінювання</string>
+    <string name="lekce8text4">1. У Genetiv множини у деяких двоскладних іменників скорочуються кореневі голосні <b>-á, -í</b> (práce-prací).</string>
+    <string name="lekce8text5">2. У Genetiv множини є закінчення <b>-í</b> (zemí). Нульове закінчення мають іменники на <b>-ice, -ce</b> та деякі на <b>-le</b> (ulice-ulic). </string>
+    <string name="lekce8text6">Питальні займенники</string>
+    <string name="lekce8text7">До питальних займенників належать займенники <b>kdo</b> хто, <b>co</b> що, <b>jaký</b> який, <b>který</b> котрий, <b>čí</b> чий.</string>
+    <string name="lekce8text8">Займенником <b>jaký</b> запитуємо про властивості, якості чогось або когось. Займенником <b>který</b> запитуємо про одну з сукупності предметів чи осіб.</string>
+    <string name="lekce8text9">Прийменники часу během, po, o, za, před, přes</string>
+    <string name="lekce8text10">Прийменник <b>během</b> (протягом чого) вживається з Genetiv.</string>
+    <string name="lekce8text11">Прийменник <b>po</b> має значення наступностіу часі, вживається з Lokál, відповідає на питання kdy? (коли?).</string>
+    <string name="lekce8text12">Прийменник <b>o</b> означає час, період здійснення події, відповідає на питання kdy? (коли?) та вживається з Lokál.</string>
+    <string name="lekce8text13">Прийменник <b>za</b> у значенні часу вживається із Akuzativ.</string>
+    <string name="lekce8text14">Прийменник <b>před</b> у значенні часу вживається із Instrumentál.</string>
+    <string name="lekce8text15">Прийменник <b>přes</b> виражає час, упродовж якого відбувається дія.</string>
+
+</resources>
